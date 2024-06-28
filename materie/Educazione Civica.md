@@ -11,4 +11,4 @@
 - [[Diritti umani violati e mafia nell'America degli anni '20]]
 - [[Crisi del '29: Wall Street]]
 - [[L'Olocausto]]
-- per favore uccidetemi perfavore
+- per favore uccidetemi ed ammazzatemi
