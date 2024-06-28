@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repressione dell'antifascismo.md",
+                "file": "argomenti/Repressione dell'antifascismo.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nascita dei partiti politici.md",
+                "file": "argomenti/Nascita dei partiti politici.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP.md",
+                "file": "argomenti/PHP.md",
                 "mode": "source",
                 "source": false
               }
@@ -244,17 +244,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a2492451ce705a1",
+  "active": "71c8e12e5dd85db9",
   "lastOpenFiles": [
-    "PHP.md",
+    "argomenti/PHP.md",
     "materie/Inglese.md",
-    "Nascita dei partiti politici.md",
-    "Patti Lateranensi, Stato e Chiesa a confronto.md",
+    "argomenti/Nascita dei partiti politici.md",
+    "argomenti/Patti Lateranensi, Stato e Chiesa a confronto.md",
     "materie/Educazione Civica.md",
-    "L'Olocausto.md",
-    "Diritti umani violati e mafia nell'America degli anni '20.md",
-    "Repressione dell'antifascismo.md",
-    "Dittature e totalitarismi.md",
+    "argomenti/L'Olocausto.md",
+    "argomenti/Diritti umani violati e mafia nell'America degli anni '20.md",
+    "argomenti/Repressione dell'antifascismo.md",
+    "argomenti/Dittature e totalitarismi.md",
     "materie/Matematica.md",
     "argomenti/Calcolo differenziale.md",
     "argomenti/Integrali.md",
