@@ -12,3 +12,4 @@
 - [[Crisi del '29: Wall Street]]
 - [[L'Olocausto]]
 - per favore uccidetemi ed ammazzatemi
+- tagliatemi la gola
