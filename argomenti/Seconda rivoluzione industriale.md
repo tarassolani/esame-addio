@@ -1,3 +1,3 @@
-Materie: [[Storia]]
+Materie: [[materie/Storia]]
 
 # Seconda rivoluzione industriale

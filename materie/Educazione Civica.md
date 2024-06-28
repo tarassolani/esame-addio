@@ -7,9 +7,9 @@
 - [[Dittature e totalitarismi]]
 - [[Repressione dell'antifascismo]]
 - [[Nascita dei partiti politici]]
-- [[Patti Lateranensi: Stato e Chiesa a confronto]]
+- [[Patti Lateranensi, Stato e Chiesa a confronto]]
 - [[Diritti umani violati e mafia nell'America degli anni '20]]
-- [[Crisi del '29: Wall Street]]
+- [[Crisi del '29, Wall Street]]
 - [[L'Olocausto]]
 - per favore uccidetemi ed ammazzatemi
 - tagliatemi la gola

@@ -1,3 +1,12 @@
 ## Argomenti:
-- [[Database]]
-- 
+- [[Memorizzare i dati]]
+- [[DBMS]]
+- [[Progettazione concettuale e Schema E/R]]
+- [[Progettazione logica]]
+- [[Forme normali]]
+- [[Algebra relazionale]]
+- [[SQL]]
+- [[PHP]]
+- [[Framework con modello MVC]]
+- [[Database no-SQL (MongoDB)]]
+- [[Project work IoT]]

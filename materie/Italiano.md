@@ -1,3 +1,15 @@
 ## Argomenti:
+- [[Positivismo]]
+- [[Naturalismo]]
+- [[Verismo]]
+- [[Giovanni Verga]]
+- [[Ciclo dei vinti]]
+	- [[Malavoglia]]
+	- [[Mastro Don Gesualdo]]
+- [[Decadentismo]]
+- [[Estetismo]]
+- [[Giovanni Pascoli]]
 - [[Futurismo]]
-- 
+- [[Giuseppe Ungaretti]]
+- [[Luigi Pirandello]]
+- [[Italo Svevo]]
