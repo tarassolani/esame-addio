@@ -1,0 +1,23 @@
+{
+  "basePath": "https://www.peerdraft.app",
+  "subscriptionAPI": "https://www.peerdraft.app/subscription",
+  "connectAPI": "https://www.peerdraft.app/subscription/connect",
+  "sessionAPI": "https://www.peerdraft.app/session",
+  "sync": "wss://www.peerdraft.app/sync",
+  "signaling": "wss://www.peerdraft.app/signal",
+  "actives": "wss://www.peerdraft.app/actives",
+  "name": "Stecca",
+  "root": "",
+  "plan": {
+    "type": "hobby",
+    "email": ""
+  },
+  "duration": 0,
+  "debug": false,
+  "version": "2.4.8",
+  "serverShares": {
+    "files": [],
+    "folders": []
+  },
+  "oid": "4d84f58b3c858472"
+}

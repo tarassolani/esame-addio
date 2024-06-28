@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "5d184d90f738a81e",
+    "type": "split",
+    "children": [
+      {
+        "id": "797ae89fea993231",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be2b1f82aa7e2d93",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78bf52c39b9b9a35",
+    "type": "split",
+    "children": [
+      {
+        "id": "0539b20e855b703a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21bd564f878a0cdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f82f7dc58b79769",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f16ae7a7ec4ed84",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3c8e69b8f34d367",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4e4d393460d574d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b61b707f78303587",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27795737733413c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "527c5fda8423fae6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e638ebb9e98c81ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "be2b1f82aa7e2d93",
+  "lastOpenFiles": [
+    "materie/Informatica.md",
+    "materie/Inglese.md",
+    "materie/Matematica.md",
+    "materie/Italiano.md",
+    "argomenti/Smart cities.md",
+    "argomenti/Futurismo.md",
+    "argomenti/Computer Science.md",
+    "argomenti/Crittografia.md",
+    "argomenti/Seconda rivoluzione industriale.md",
+    "templates/appuntino.md",
+    "argomenti/ICT and the Environment.md"
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "main": {
+    "id": "0d0dad4013635536",
+    "type": "split",
+    "children": [
+      {
+        "id": "54d3396f49cacc99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f28029c1ea19995f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "abe70d4000f95a84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "argomenti/ICT and the Environment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80ab633be394de92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "argomenti/Smart cities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c95fb40c89c0ba55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "argomenti/Seconda rivoluzione industriale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "153a29f036770dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/materia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b6372e69f5232ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "argomenti/Virtualizzazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f73a9e7ade682b8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "argomenti/Futurismo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb79cf7eeb09b1d0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "argomenti/Virtualizzazione.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e043ce1dca628e09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "argomenti/Virtualizzazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1c75244e3ceb033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "argomenti/Virtualizzazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82bb90ff5d4864b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "argomenti/Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c68f66d3132a3a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materie/Matematica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c97dd6d8b236186c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materie/Educazione Civica.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "59ff499c5178f994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materie/Educazione Civica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c02e5460e64b2f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materie/Educazione Civica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 14
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ad6c89f3a9ad4b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c947495fff8cd79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71c8e12e5dd85db9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34f8b259937a5d7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b63f9e44f5d9d953",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a3572acd26face06",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1aad6d3548e62fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "284e6613b92d7a79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "materie/Educazione Civica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11cf2ed3ac8545dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "materie/Educazione Civica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "479c9c1708bbda0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "32e8817592d257d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "materie/Educazione Civica.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c02e5460e64b2f2a",
+  "lastOpenFiles": [
+    "materie/Educazione Civica.md",
+    "templates/desktop.ini",
+    "argomenti/desktop.ini",
+    "materie/desktop.ini",
+    "cacchette/desktop.ini",
+    "argomenti/Virtualizzazione.md",
+    "materie/Matematica.md",
+    "templates/materia.md",
+    "templates/appuntino.md",
+    "materie/Italiano.md",
+    "argomenti/Database.md",
+    "materie/Informatica.md",
+    "argomenti/Computer Science.md",
+    "argomenti/Futurismo.md",
+    "argomenti/ICT and the Environment.md",
+    "argomenti/Seconda rivoluzione industriale.md",
+    "argomenti/Smart cities.md",
+    "materie/Sistemi e Reti.md",
+    "materie/Storia.md",
+    "argomenti/Crittografia.md",
+    "Untitled",
+    "materie/Inglese.md",
+    "templates",
+    "materie",
+    "argomenti",
+    "Welcome.md",
+    "cacchette"
+  ]
+}
